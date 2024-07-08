@@ -9,11 +9,11 @@ export default function Navbar() {
                 </NavLink>
                 <ul className="flex items-center">
                     <li className="text-[#70737C] text-[14px] font-normal"><NavLink to={'/'} >ALL PRODUCTS</NavLink></li>
-                    <div className="w-[1px] ml-[16px] mr-[16px] h-[100%] bg-[#EFEFEF]"></div>
+                    <div className="w-[2px] ml-[16px] mr-[16px] h-[30px] bg-[#EFEFEF]"></div>
                     <li className="text-[#70737C] text-[14px] font-normal"><NavLink to={'/'} >ABOUT SEEDRA</NavLink></li>
-                    <div className="w-[1px] ml-[16px] mr-[16px] h-[100%] bg-[#EFEFEF]"></div>
+                    <div className="w-[2px] ml-[16px] mr-[16px] h-[30px] bg-[#EFEFEF]"></div>
                     <li className="text-[#70737C] text-[14px] font-normal"><NavLink to={'/'} >OUR BLOG</NavLink></li>
-                    <div className="w-[1px] ml-[16px] mr-[16px] h-[100%] bg-[#EFEFEF]"></div>
+                    <div className="w-[2px] ml-[16px] mr-[16px] h-[30px] bg-[#EFEFEF]"></div>
                     <li className="text-[#70737C] text-[14px] font-normal"><NavLink to={'/'} >CONTACTS</NavLink></li>
                 </ul>
                 <div className="flex gap-[8px]">
