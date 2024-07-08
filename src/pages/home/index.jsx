@@ -54,7 +54,7 @@ export default function Home() {
                         <button className="btn w-[131px] h-[51px] bg-[#FFFFFF] border-none text-[#359740]">Discover</button>
                     </div>
                 </div>
-                <img className="w-[400px] mt-[50px] mx-auto h-[450px]" src="./../../../public/png/header-image.png" alt="" />
+                <img className="w-[400px] mt-[50px] mx-auto h-[450px]" src="./../../../public/png/header-image.webp" alt="images" />
             </div>
             <div className="flex items-center rounded-[12px] overflow-hidden bg-[#ffe72e0e] max-w-[1110px] justify-between">
                 <img src="./../../../public/png/left-bar-image.png" alt="" />
